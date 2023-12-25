@@ -1,0 +1,3 @@
+## Abstract
+
+This study aims to perform statistical data analysis on flight delay data by comparing two samples, using Analysis of Variance and comparing categorical data. It also includes linear regression, resampling methods such as bootstrapping, linear model selection and regularization, and moving beyond linearity. The goal is to analyze the relationships between various predictors and flight delays, as well as to explore the effectiveness of different statistical techniques in predicting and analyzing flight delays. The results of this study can provide insights into the factors that contribute to flight delays and help in the development of more accurate models for predicting flight delays.
